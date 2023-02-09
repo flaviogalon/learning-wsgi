@@ -5,6 +5,8 @@ I want to understand a little bit more how the Web Server Gateway Interface work
 
 - `application` is a dummy WSGI-compliant application, meaning that one could plug it into other WSGI web servers.
 
+Obs: heavily based on [Ryan Wilson-Perkin's work](https://github.com/ryanwilsonperkin/wsgi-tutorial)
+
 ## How to run
 Start the web server
 ```shell
